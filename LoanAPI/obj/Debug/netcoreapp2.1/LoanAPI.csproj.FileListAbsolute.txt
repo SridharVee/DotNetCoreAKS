@@ -1,0 +1,15 @@
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.csproj.CoreCompileInputs.cache
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.AssemblyInfoInputs.cache
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.AssemblyInfo.cs
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\bin\Debug\netcoreapp2.1\LoanAPI.deps.json
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\bin\Debug\netcoreapp2.1\LoanAPI.runtimeconfig.json
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\bin\Debug\netcoreapp2.1\LoanAPI.runtimeconfig.dev.json
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\bin\Debug\netcoreapp2.1\LoanAPI.dll
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\bin\Debug\netcoreapp2.1\LoanAPI.pdb
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.csprojAssemblyReference.cache
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.RazorAssemblyInfo.cache
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.RazorAssemblyInfo.cs
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.RazorTargetAssemblyInfo.cache
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.dll
+C:\Users\srvenkat\source\repos\dotnetcoreaks\LoanAPI\obj\Debug\netcoreapp2.1\LoanAPI.pdb
